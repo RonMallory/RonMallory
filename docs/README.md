@@ -9,7 +9,11 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=ronmallory&style=flat-square&color=blue" alt=""/>
+<h2>ABOUT ME:</h2>
 
+* :Rocket: I am a Software Engineer located in the United States
+
+<center> <h2>Certifications</h2> </center>
 <div id="certifications" align="center">
     <a>
         <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="33fac155-a41a-45d3-8024-fccebfe8458a" data-share-badge-host="https://www.credly.com">
