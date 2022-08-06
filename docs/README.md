@@ -11,12 +11,12 @@
 </div>
 
 
-## :heavy_exclamation_mark: ABOUT ME:
+## ABOUT ME:
 
 * :rocket: I work as a Software Engineer located in the United States.
 * :basecamp: In my spare time I enjoy finding creative solutions for complex problems.
 ---
-## :hammer_and_wrench: Tools Skills and Languages:
+## Tools Skills and Languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
@@ -30,7 +30,7 @@
 
 ---
 
-## :octocat: MY STATS:
+## MY STATS:
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ronmallory&theme=hacker)
 
 ---
