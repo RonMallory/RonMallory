@@ -13,8 +13,8 @@
 
 ## ABOUT ME:
 
-* :rocket: I work as a Software Engineer located in the United States.
-* :basecamp: In my spare time I enjoy finding creative solutions for complex problems.
+* I work as a Software Engineer located in the United States.
+* In my spare time I enjoy finding creative solutions for complex problems.
 ---
 ## Tools Skills and Languages:
 <div>
