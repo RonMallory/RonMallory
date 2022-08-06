@@ -10,12 +10,15 @@
   </a>
 </div>
 
+---
 
 ## ABOUT ME:
 
 * I work as a Software Engineer located in the United States.
 * In my spare time I enjoy finding creative solutions for complex problems.
+
 ---
+
 ## Tools Skills and Languages:
 <div>
   <a>
@@ -37,7 +40,7 @@
 
 ---
 
-<h2>:white_check_mark: Certifications:</h2>
+<h2>Certifications:</h2>
 <div>
   <a>
     <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="33fac155-a41a-45d3-8024-fccebfe8458a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
