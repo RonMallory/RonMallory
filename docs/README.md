@@ -10,10 +10,10 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=ronmallory&style=flat-square&color=blue" alt=""/>
 
-<h2>ABOUT ME:</h2>
+<h2>:heavy_exclamation_mark: ABOUT ME:</h2>
 
 * :rocket: I work as a Software Engineer located in the United States.
-* :basecamp: I finding creative solutions to solve complex problems.
+* :basecamp: In my spare time I enjoy finding creative solutions for complex problems.
 ---
 <h2>:hammer_and_wrench: Tools Skills and Languages:</h2>
 <div>
@@ -30,8 +30,8 @@
 <h2>:octocat: MY STATS:</h2>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ronmallory&theme=hacker)](https://git.io/streak-stats)
 ---
-<center> <h2>Certifications</h2> </center>
-<div id="certifications" align="center">
+<h2>:white_check_mark: Certifications:</h2>
+<div id="certifications">
     <a>
         <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="33fac155-a41a-45d3-8024-fccebfe8458a" data-share-badge-host="https://www.credly.com">
         </div>
