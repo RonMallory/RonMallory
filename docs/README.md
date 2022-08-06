@@ -1,1 +1,3 @@
-# Welcom to the Page
+# Welcome to the Page
+
+![Certifications](./certs.md)
