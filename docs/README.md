@@ -9,10 +9,27 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=ronmallory&style=flat-square&color=blue" alt=""/>
+
 <h2>ABOUT ME:</h2>
 
-* :Rocket: I am a Software Engineer located in the United States
-
+* :rocket: I work as a Software Engineer located in the United States.
+* :basecamp: I finding creative solutions to solve complex problems.
+---
+<h2>:hammer_and_wrench: Tools Skills and Languages:</h2>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"  title="Github" alt="Github" width="40" height="40"/>&nbsp;
+</div>
+---
+<h2>:octocat: MY STATS:</h2>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ronmallory&theme=hacker)](https://git.io/streak-stats)
+---
 <center> <h2>Certifications</h2> </center>
 <div id="certifications" align="center">
     <a>
@@ -26,3 +43,4 @@
     </div>
     <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
+---
