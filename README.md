@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
 </div>
-<center> <h1>Welcome To My Page</h1> </center>
+<center> <h1>Welcome To My Profile</h1> </center>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ron-mallory-12037a93/">
@@ -31,9 +31,5 @@
 ---
 ## :octocat: MY STATS:
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ronmallory&theme=hacker)
-
----
-
-<h2>:white_check_mark: Certifications:</h2>
 
 ---
